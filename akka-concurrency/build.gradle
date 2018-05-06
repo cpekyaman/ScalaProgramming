@@ -1,0 +1,15 @@
+ext {
+    akkaVersion = '2.5.12'
+}
+
+dependencies {    
+    compile group: 'com.typesafe.akka', name: "akka-actor_$scalaMajorVersion", version: akkaVersion
+    compile group: 'com.typesafe.akka', name: "akka-remote_$scalaMajorVersion", version: akkaVersion
+    compile group: 'com.typesafe.akka', name: "akka-agent_$scalaMajorVersion", version: akkaVersion
+
+    compile group: 'org.scala-lang.modules', name: "scala-async_$scalaMajorVersion", version: '0.9.7'
+
+    testCompile group: 'com.typesafe.akka', name: "akka-testkit_$scalaMajorVersion", version: akkaVersion
+    testCompile group: 'org.specs2', name: "specs2-scalacheck_$scalaMajorVersion", version: '4.1.0'
+    testCompile group: 'org.scalatest', name: "scalatest_$scalaMajorVersion", version: '3.0.5'
+}

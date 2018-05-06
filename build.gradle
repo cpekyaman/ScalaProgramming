@@ -1,0 +1,50 @@
+allprojects {
+    group 'scala'
+    version '1.0.0'
+}
+
+ext {
+    scalaMajorVersion = '2.12'
+    scalaVersion = '2.12.3'
+}
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'scala'
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    sourceSets {
+        main {
+            java {
+                srcDirs = ['src/main/java']
+            }
+            scala {
+                srcDirs = ['src/main/scala']
+            }
+        }
+        test {
+            java {
+                srcDirs = ['src/test/java']
+            }
+            scala {
+                srcDirs = ['src/test/scala']
+            }
+        }
+    }
+
+    dependencies {
+        compile "org.scala-lang:scala-library:$scalaVersion"
+
+        testCompile group: 'junit', name: 'junit', version: '4.12'
+        testCompile 'org.assertj:assertj-core:3.8.0'
+    }
+}
+
+

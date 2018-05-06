@@ -1,0 +1,4 @@
+rootProject.name = 'scala-programming'
+
+include 'programming-scala'
+include 'akka-concurrency'
