@@ -105,7 +105,8 @@ class FlyingBehaviour(plane: ActorRef,
     def prepComplete(data: Data): Boolean = {
         data match {
             case FlightData(c,_,_,_,s) =>
-                if(!c.isTerminated && s.heading != -1f && s.altitude != -1f) true else false
+                // !c.isTerminated removed, replacement ?
+                if(s.heading != -1f && s.altitude != -1f) true else false
             case _ => false
         }
     }

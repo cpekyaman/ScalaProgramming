@@ -49,6 +49,7 @@ class Pilot(plane: ActorRef,
             heading: ActorRef) extends Actor {
     this: DrinkingProvider with FlyingProvider =>
     
+    import scala.akka.util.ActorUtil.actorFor
     import Pilot._
     import scala.akka.avionics.Pilot._
     import akka.actor.FSM._
@@ -68,8 +69,8 @@ class Pilot(plane: ActorRef,
     
     def bootstrap: Receive = {
         case ReadyToGo =>
-            val copilot = context.actorFor("../" + copilotName)
-            val flyer = context.actorFor("FlyingBehaviour")
+            val copilot = actorFor(context, "../" + copilotName)
+            val flyer = actorFor(context, "FlyingBehaviour")
             flyer ! SubscribeTransitionCallBack(self)
             setCourse(flyer)
             context.become(sober(copilot, flyer))

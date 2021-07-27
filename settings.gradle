@@ -1,4 +1,6 @@
 rootProject.name = 'scala-programming'
 
 include 'programming-scala'
+include 'scala-cookbook'
 include 'akka-concurrency'
+include 'rtj-scala-advanced'

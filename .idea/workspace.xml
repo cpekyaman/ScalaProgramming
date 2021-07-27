@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85586d3f-f93c-4ffb-86cd-8ce6acda351f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/util/ActorUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section02/PatternMatchingExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section03/CurryingExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section03/FunctionalSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section03/LazyValExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section03/MonadExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section03/PartialFunctionsExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section04/FutureExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section04/ThreadExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section05/ImplicitsExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/exercises/section06/VarianceExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section02/DarkSugars.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section02/PatternMatchingLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section02/Recap.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section03/CurryingAndPAFLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section03/LazyEvalLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section03/MonadLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section03/PartialFunctionsLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section04/FuturesLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section04/Intro.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section04/ParallelUtilsLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section04/ThreadCommunicationLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section05/ImplicitsLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section05/MagnetPatternLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section05/PimpMyLibraryLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section05/TypeClassesLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section06/HigherKindedTypeLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section06/InheritanceLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section06/StructuralTypesLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section06/TypeMembersLecture.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rtj-scala-advanced/src/main/scala/rtj/scala/advanced/lectures/section06/VarianceLecture.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/future/Plane.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/future/Plane.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/routing/PassengerSupervisor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/routing/PassengerSupervisor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/routing/Plane.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/routing/Plane.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/routing/SectionSpecificAttendantRouter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/Pilot.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/Pilot.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/Plane.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/Plane.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/fsm/FlyingBehaviour.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/stateful/fsm/FlyingBehaviour.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/supervision/avionics/actor/Plane.scala" beforeDir="false" afterPath="$PROJECT_DIR$/akka-concurrency/src/main/scala/scala/akka/supervision/avionics/actor/Plane.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-programming" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\REPO\Maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aJZImClnd32tAEry33ArqxJr4k" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.2.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Raistlin/Development/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HigherKindedTypeLecture">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="FuturesLecture" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rtj.scala.advanced.lectures.section04.FuturesLecture" />
+      <module name="rtj-scala-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtj.scala.advanced.lectures.section04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HigherKindedTypeLecture" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rtj.scala.advanced.lectures.section06.HigherKindedTypeLecture" />
+      <module name="rtj-scala-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtj.scala.advanced.lectures.section06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitsExercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rtj.scala.advanced.exercises.section05.ImplicitsExercise" />
+      <module name="rtj-scala-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtj.scala.advanced.exercises.section05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitsLecture" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rtj.scala.advanced.lectures.section05.ImplicitsLecture" />
+      <module name="rtj-scala-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtj.scala.advanced.lectures.section05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelUtilsLecture" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rtj.scala.advanced.lectures.section04.ParallelUtilsLecture" />
+      <module name="rtj-scala-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rtj.scala.advanced.lectures.section04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HigherKindedTypeLecture" />
+        <item itemvalue="Application.ImplicitsExercise" />
+        <item itemvalue="Application.ImplicitsLecture" />
+        <item itemvalue="Application.ParallelUtilsLecture" />
+        <item itemvalue="Application.FuturesLecture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85586d3f-f93c-4ffb-86cd-8ce6acda351f" name="Default" comment="" />
+      <created>1525534826889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525534826889</updated>
+      <workItem from="1525534831071" duration="3570000" />
+      <workItem from="1525634329590" duration="447000" />
+      <workItem from="1586455587011" duration="5655000" />
+      <workItem from="1586549233762" duration="3557000" />
+      <workItem from="1586597674677" duration="3495000" />
+      <workItem from="1586634598511" duration="5217000" />
+      <workItem from="1586720330705" duration="5432000" />
+      <workItem from="1586803730700" duration="4841000" />
+      <workItem from="1586889888427" duration="5094000" />
+      <workItem from="1586979868024" duration="4992000" />
+      <workItem from="1587066618529" duration="4104000" />
+      <workItem from="1587151444599" duration="3460000" />
+      <workItem from="1587234092299" duration="8020000" />
+      <workItem from="1587293139787" duration="614000" />
+      <workItem from="1587305632547" duration="2415000" />
+    </task>
+    <task id="LOCAL-00001" summary="vcs file added">
+      <created>1525634379141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525634379141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="vcs file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs file added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="299" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586465526499">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="662" y="299" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1856.1080@0.0.1856.1080" timestamp="1586465526499" />
+    <state x="737" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1587306314391">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="737" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1856.1080@0.0.1856.1080" timestamp="1587306314391" />
+    <state width="1814" height="285" key="GridCell.Tab.0.bottom" timestamp="1587313366085">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="285" key="GridCell.Tab.0.bottom/0.0.1856.1080@0.0.1856.1080" timestamp="1587313366085" />
+    <state width="1814" height="285" key="GridCell.Tab.0.center" timestamp="1587313366085">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="285" key="GridCell.Tab.0.center/0.0.1856.1080@0.0.1856.1080" timestamp="1587313366085" />
+    <state width="1814" height="285" key="GridCell.Tab.0.left" timestamp="1587313366085">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="285" key="GridCell.Tab.0.left/0.0.1856.1080@0.0.1856.1080" timestamp="1587313366085" />
+    <state width="1814" height="285" key="GridCell.Tab.0.right" timestamp="1587313366085">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="285" key="GridCell.Tab.0.right/0.0.1856.1080@0.0.1856.1080" timestamp="1587313366085" />
+    <state x="588" y="248" key="run.anything.popup" timestamp="1586635759848">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="588" y="248" key="run.anything.popup/0.0.1856.1080@0.0.1856.1080" timestamp="1586635759848" />
+    <state x="591" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1587306068318">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="591" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1856.1080@0.0.1856.1080" timestamp="1587306068318" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5.2 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

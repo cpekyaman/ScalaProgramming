@@ -13,6 +13,7 @@ import scala.concurrent.duration._
 class Plane extends Actor with ActorLogging {
     this : AltimeterProvider with PilotProvider with LeadFlightAttendantProvider => 
     
+    import scala.akka.util.ActorUtil.actorFor
     import Altimeter._
     import EventSource._
     import Pilot._
@@ -41,7 +42,7 @@ class Plane extends Actor with ActorLogging {
                 context.actorOf(Props(new Controller(altimeter)), "Controller")
             }
         }
-    private def equipmentActor(name: String): ActorRef = context.actorFor("Equipment/" + name)    
+    private def equipmentActor(name: String): ActorRef = actorFor(context, "Equipment/" + name)    
     
     def startCrew() {
         val pilots = context.actorOf(Props(pilotSupervisor), "Pilots")        
@@ -56,7 +57,7 @@ class Plane extends Actor with ActorLogging {
                 context.actorOf(Props(newCoPilot(self)), copilotName)
             }
         }
-    private def pilotActor(name: String): ActorRef = context.actorFor("Pilots/" + name)
+    private def pilotActor(name: String): ActorRef = actorFor(context, "Pilots/" + name)
     
     override def preStart() {
         startEquipment()
